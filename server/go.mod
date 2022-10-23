@@ -1,4 +1,4 @@
-module github.com/carpong/go-react
+module github.com/carpong/go_react
 
 go 1.19
 

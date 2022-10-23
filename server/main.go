@@ -5,7 +5,7 @@ import (
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
 
-	"github.com/carpong/go-react/user"
+	"github.com/carpong/go_react/user"
 )
 
 func main() {
