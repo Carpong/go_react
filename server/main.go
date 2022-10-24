@@ -30,6 +30,5 @@ func main() {
 	r.GET("/users/:id", handler.GetWhere)
 	r.PUT("/upusers/:id", handler.UpdateUser)
 	r.DELETE("/deluser/:id", handler.DeleteUser)
-
 	r.Run()
 }
